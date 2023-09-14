@@ -2,9 +2,7 @@
    My personal Porfolio Website
 
 
-      visit here :  https://portfolio-fawad97.vercel.app/
-
-
+      visit here :  https://andri-portfolio.netlify.app
 
      *Built using HTML, CSS, JS*
 
