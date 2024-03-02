@@ -1224,3 +1224,35 @@ section#ContactMe div.contact-card ul a span {
           transform: translateY(10px);
 }
 /*# sourceMappingURL=style.css.map */
+
+.c-icon {
+  display: inline-block;
+  width: 100px; /* Adjust width as needed */
+  height: 113px; /* Adjust height as needed */
+  background-image: url(/images/c.png); /* Replace with the path to your image */
+  background-size: cover; /* or contain, depending on how you want the image to be displayed */
+}
+
+.sql-icon {
+  display: inline-block;
+  width: 100px; /* Adjust width as needed */
+  height: 100px; /* Adjust height as needed */
+  background-image: url(/images/sql.webp); /* Replace with the path to your image */
+  background-size: cover; /* or contain, depending on how you want the image to be displayed */
+}
+
+.sitecore-icon {
+  display: inline-block;
+  width: 100px; /* Adjust width as needed */
+  height: 100px; /* Adjust height as needed */
+  background-image: url(/images/sitecore.png); /* Replace with the path to your image */
+  background-size: cover; /* or contain, depending on how you want the image to be displayed */
+}
+
+.net-icon {
+  display: inline-block;
+  width: 150px; /* Adjust width as needed */
+  height: 100px; /* Adjust height as needed */
+  background-image: url(/images/net.png); /* Replace with the path to your image */
+  background-size: cover; /* or contain, depending on how you want the image to be displayed */
+}
